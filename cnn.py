@@ -9,6 +9,7 @@ Requirements:
 	Pandas library
 	Keras library
 	TensorFlow backend
+(I would recommend installing Anaconda, which includes Python and many other useful libraries)
 
 Usage Details:
 Change the variables to specify the training dataset and the testing dataset.
