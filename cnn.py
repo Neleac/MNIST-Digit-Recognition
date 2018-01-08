@@ -4,7 +4,7 @@ Author: Caelen Wang
 Overview:
 Convolutional Neural Network for handwritten digit classification. Desgined for the MNIST dataset. 
 
-Requirements (other versions might work but nor sure):
+Requirements:
 	Python 3.6
 	Pandas library
 	Keras library
