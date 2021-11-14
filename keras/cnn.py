@@ -41,8 +41,8 @@ OUTPUT_DIM = 10
 
 
 #variables (CHANGE ME)
-training_data = 'train.csv'
-testing_data = 'test.csv'
+training_data = '../train.csv'
+testing_data = '../test.csv'
 
 
 #reshapes dataset to required dimensions
